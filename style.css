@@ -1,0 +1,10 @@
+body {
+    background-color: #000;
+    color: #0f0;
+    font-family: "Tahoma", sans-serif;
+    text-align: center;
+}
+
+.hidden-link {
+    display: none;
+}
