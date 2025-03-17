@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quantum AI Strike</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🔥 Quantum AI Strike 🔥</h1>
+  <p>دروازه ورود به دارک‌وب کوانتومی...</p>
+
+  <audio id="darkSound">
+    <source src="dark-sound.mp3" type="audio/mpeg">
+  </audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
